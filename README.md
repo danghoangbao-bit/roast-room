@@ -32,11 +32,11 @@ Those seven are the **default board**. Five more advisors are on call, and the C
 ## Setup
 
 ```bash
-git clone https://github.com/nateherkai/roast-room.git
+git clone https://github.com/danghoangbao-bit/roast-room.git
 cd roast-room
 ```
 
-Or open Claude Code anywhere and say: "Clone github.com/nateherkai/roast-room and start the room for me."
+Or open Claude Code anywhere and say: "Clone github.com/danghoangbao-bit/roast-room and start the room for me."
 
 ## Run a roast
 
